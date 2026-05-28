@@ -30,7 +30,7 @@ None of this apply to the _current_ ARF activity.  Comparable standardization ac
 [Secure Payment Confirmation by W3C](https://www.w3.org/TR/secure-payment-confirmation/) typically take at least 3 years
 making such endeavors out of scope for most SMEs, unless _external funding_ is provided.
 
-Note: for online payments using wallets, _there are no standards_.  Local payments are covered by the EMV standard featured in current bank cards as well as in Apple Pay.
+Note: for online payments using wallets, _there are no standards_.  See [link](https://github.com/eu-digital-identity-wallet/eudi-doc-standards-and-technical-specifications/issues/598).
 
 ## Product Status (as of June 2026)
 Regardless of what the incentives for EUDIW-4-Payments may be, it will by most people be viewed as a "product".  This means that it will be compared with similar solutions including Apple Pay and Wero.
