@@ -7,7 +7,7 @@ This is a complex topic since:
 - Financial institutions are reportedly obliged to accept payments using the EUDIW
 - None of current Government-driven EUDIW projects appear to support payments
 
-The conclusion is that wallet providers are not forced to implement payment suppprt, leaving financial instituions to support an unknown set of proprietary and unique wallet solutions.  Since wallet software is provided for free on "app stores", it seems that only _sustainable_ solution is that banks cater for such developments themselves, like they already do for Wero and as well as for national payment solutions like Swish, BLIK, Bizum, MobilePay, etc.
+The conclusion is that wallet providers are not forced to implement payment suppprt, leaving financial instituions to support an unknown set of proprietary and unique wallet solutions.  Since wallet software is provided for free on "app stores", it seems that the only _sustainable_ solution is that banks cater for such developments themselves, like they already do for Wero and as well as for national payment solutions like Swish, BLIK, Bizum, MobilePay, etc.
 
 However, the EUDIW-4-Payments project has [multiple challengers](#product-status-as-of-june-2026), most recently by the European Payments Intiative, nowadays known as "Wero".
 
