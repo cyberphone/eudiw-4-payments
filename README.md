@@ -4,7 +4,7 @@ Monitoring the status of EUDIW-4-Payments (my name of the EUDIW payment function
 ## Regulatory Status (as of June 2026)
 This is a complex topic since:
 - Currently there is no [standard](#standardization-status-as-of-june-2026) for EUDIW-based payments
-- Financial institutions are reportedly obliged to accept payments using the EUDIW
+- Financial institutions are reportedly _obliged_ to accept payments using the EUDIW
 - None of current Government-driven EUDIW projects appear to support payments
 
 The conclusion is that wallet providers are not forced to implement payment support, leaving financial instituions with the daunting task accepting an unknown set of _proprietary and unique_ wallet solutions.  Since wallet software is provided for free on "app stores", it seems that the only _sustainable_ solution is that banks cater for such developments themselves, like they already do for Wero and as well as for national payment solutions like Swish, BLIK, Bizum, MobilePay, etc.
