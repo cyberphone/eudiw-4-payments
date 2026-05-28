@@ -7,7 +7,7 @@ This is a complex topic since:
 - Financial institutions are reportedly _obliged_ to accept payments using the EUDIW
 - None of current Government-driven EUDIW projects appear to support payments
 
-The conclusion is that wallet providers are not forced to implement payment support, leaving financial instituions with the daunting task accepting an unknown set of _proprietary and unique_ wallet solutions.  Since wallet software is provided for free on "app stores", it seems that the only _sustainable_ solution is that banks cater for such developments themselves, like they already do for Wero and as well as for national payment solutions like Swish, BLIK, Bizum, MobilePay, etc.
+The conclusion is that wallet providers are not forced to implement payment support, leaving financial institutions with the daunting task accepting _an unknown set of proprietary and unique_ wallet solutions.  Since wallet software is provided for free on "app stores", it seems that the only _sustainable_ solution is that banks cater for such developments themselves, like they already do for Wero and as well as for national payment solutions like Swish, BLIK, Bizum, MobilePay, etc.
 
 The EIDIW proponents claim that SCA (Strong Customer Authentication) is a major differentiator.  This is incorrect; the competition without exceptions already supports SCA since this is a mandatory feature since PSD2 (2015).  In fact, the EUDIW-4-Payments project has [multiple challengers](#product-status-as-of-june-2026), including by the European Payments Initiative (nowadays known as "Wero").
 
