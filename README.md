@@ -3,7 +3,7 @@ Monitoring the status of EUDIW-4-Payments
 
 ## Regulatory Status (as of June 2026)
 This is a complex topic since:
-- There is no standard
+- There is no [standard](#standardization-status-as-of-june-2026)
 - Financial institutions are reportedly obliged to accept payments using the EUDIW
 - None of current Government EUDIW projects are known to support payments
 
